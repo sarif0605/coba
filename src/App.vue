@@ -4,17 +4,8 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <h1>Sarif Hidayat</h1>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta ratione officiis nisi, esse vero laudantium nam saepe eos laborum dolor!</p>
 </template>
 
 <style scoped>
