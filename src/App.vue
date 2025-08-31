@@ -4,7 +4,7 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-  <h1>Belajar Vue JS</h1>
+  <h1>Latihan Vue JS</h1>
   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta ratione officiis nisi, esse vero laudantium nam saepe eos laborum dolor!</p>
 </template>
 
